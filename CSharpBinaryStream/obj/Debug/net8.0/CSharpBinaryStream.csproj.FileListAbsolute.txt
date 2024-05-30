@@ -1,0 +1,14 @@
+C:\Users\mcpe357\source\repos\CSharpBinaryStream\CSharpBinaryStream\bin\Debug\net8.0\CSharpBinaryStream.exe
+C:\Users\mcpe357\source\repos\CSharpBinaryStream\CSharpBinaryStream\bin\Debug\net8.0\CSharpBinaryStream.deps.json
+C:\Users\mcpe357\source\repos\CSharpBinaryStream\CSharpBinaryStream\bin\Debug\net8.0\CSharpBinaryStream.runtimeconfig.json
+C:\Users\mcpe357\source\repos\CSharpBinaryStream\CSharpBinaryStream\bin\Debug\net8.0\CSharpBinaryStream.dll
+C:\Users\mcpe357\source\repos\CSharpBinaryStream\CSharpBinaryStream\bin\Debug\net8.0\CSharpBinaryStream.pdb
+C:\Users\mcpe357\source\repos\CSharpBinaryStream\CSharpBinaryStream\obj\Debug\net8.0\CSharpBinaryStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcpe357\source\repos\CSharpBinaryStream\CSharpBinaryStream\obj\Debug\net8.0\CSharpBinaryStream.AssemblyInfoInputs.cache
+C:\Users\mcpe357\source\repos\CSharpBinaryStream\CSharpBinaryStream\obj\Debug\net8.0\CSharpBinaryStream.AssemblyInfo.cs
+C:\Users\mcpe357\source\repos\CSharpBinaryStream\CSharpBinaryStream\obj\Debug\net8.0\CSharpBinaryStream.csproj.CoreCompileInputs.cache
+C:\Users\mcpe357\source\repos\CSharpBinaryStream\CSharpBinaryStream\obj\Debug\net8.0\CSharpBinaryStream.dll
+C:\Users\mcpe357\source\repos\CSharpBinaryStream\CSharpBinaryStream\obj\Debug\net8.0\refint\CSharpBinaryStream.dll
+C:\Users\mcpe357\source\repos\CSharpBinaryStream\CSharpBinaryStream\obj\Debug\net8.0\CSharpBinaryStream.pdb
+C:\Users\mcpe357\source\repos\CSharpBinaryStream\CSharpBinaryStream\obj\Debug\net8.0\CSharpBinaryStream.genruntimeconfig.cache
+C:\Users\mcpe357\source\repos\CSharpBinaryStream\CSharpBinaryStream\obj\Debug\net8.0\ref\CSharpBinaryStream.dll
